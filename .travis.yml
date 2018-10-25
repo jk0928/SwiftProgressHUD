@@ -1,0 +1,5 @@
+language: swift #语言种类
+
+xcode_workspace: SwiftProgressHUDDemo.xcworkspace # 项目文件相对于.travis.yml文件的路径
+
+xcode_scheme: SwiftProgressHUDDemo #你需要集成测试的scheme

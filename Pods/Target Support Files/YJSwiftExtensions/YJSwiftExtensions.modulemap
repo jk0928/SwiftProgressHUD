@@ -1,0 +1,6 @@
+framework module YJSwiftExtensions {
+  umbrella header "YJSwiftExtensions-umbrella.h"
+
+  export *
+  module * { export * }
+}
